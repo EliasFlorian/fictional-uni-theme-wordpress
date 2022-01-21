@@ -56,4 +56,7 @@ get_footer();
 ?>
 
 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, earum?
+
+
 
