@@ -25,6 +25,6 @@ add_action('after_setup_theme', 'university_features');
 ?>
 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias iusto perferendis laudantium pariatur necessitatibus debitis reprehenderit, inventore ullam reiciendis quo.
+
 
 
